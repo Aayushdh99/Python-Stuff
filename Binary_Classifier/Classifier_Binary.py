@@ -1,6 +1,6 @@
 # CNN Universal Classifier (Binary)
 
-## Part 1 - Building the CNN
+# Part 1 - Building the CNN
 
 # Importing the Keras libraries and packages
 import numpy as np
